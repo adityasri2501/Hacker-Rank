@@ -25,6 +25,6 @@ for i in final_names:
 
 #  ANOTHER APPROACH 
 
-# second = sorted(set([i[1] for i in arr]))[1]
+# second = sorted(set([i[1] for i in arr]))[1] (it is because set contains unique vaues only so at index 1 there will always be second grade)
 # final_names = [i[0] for i in arr if (i[1] == second)]
 # print(final_names.sort())
