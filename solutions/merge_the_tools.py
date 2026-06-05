@@ -16,7 +16,7 @@ def merge_tools(str,k):
     #             res_list.append(j)
     #     print("".join(res_list))
 
-    #  or   below and belo if faster as list has O(n) and set has O(1)
+    #  or   below and below if faster as list has O(n) and set has O(1)
     for i in range(0,n,+k):
         sub_str = str[i:i+k]
         res_set = set()
