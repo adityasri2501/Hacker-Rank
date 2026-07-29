@@ -1,68 +1,58 @@
 # Hacker-Rank
 
-A repository containing solutions to HackerRank problems written in Python.
+A collection of Python solutions to HackerRank problems.
 
-## Overview
+This repository contains concise, well-documented solutions to algorithmic and data-structure problems from HackerRank. All code is written in Python and organized to make it easy to browse, run, and learn from.
 
-This repository contains my solutions to various coding challenges from [HackerRank](https://www.hackerrank.com/). The problems are organized by difficulty and topic, making it easy to navigate and learn from different approaches.
+## Repository composition
+
+- Primary language: Python (100%)
 
 ## Structure
 
-The repository is organized as follows:
-- Solutions are implemented in Python
-- Each solution focuses on correctness and clarity
-- Problems are categorized by difficulty level (Easy, Medium, Hard)
+- Each solution is provided as a standalone Python file.
+- Filenames indicate the problem or category where possible.
+- Solutions focus on clarity, correctness, and readable explanations in comments.
 
-## Usage
-
-You can explore the solutions by browsing through the repository structure. Each file typically contains:
-- The problem description (usually in comments)
-- An efficient solution
-- Explanation of the approach used
-
-## Topics Covered
-
-- Data Structures
-- Algorithms
-- String Manipulation
-- Mathematics
-- Dynamic Programming
-- And more...
-
-## Getting Started
+## Getting started
 
 1. Clone the repository:
-   ```bash
+
    git clone https://github.com/adityasri2501/Hacker-Rank.git
-   ```
 
-2. Navigate to the repository:
-   ```bash
+2. Change into the repository:
+
    cd Hacker-Rank
-   ```
 
-3. Explore the solutions and run them as needed.
+3. Run a solution:
+
+   python3 path/to/solution.py
+
+Replace `path/to/solution.py` with the actual filename.
 
 ## Requirements
 
-- Python 3.x
+- Python 3.8+ (most solutions are compatible with Python 3.x)
+- No external dependencies unless specified in a particular file
 
 ## Contributing
 
-Feel free to contribute improvements, optimizations, or additional solutions. You can:
-- Create a pull request with your changes
-- Suggest improvements to existing solutions
-- Report any issues
+Contributions are welcome. Suggested process:
+
+1. Fork the repository.
+2. Add or improve solution files with clear filenames and inline comments.
+3. Open a pull request describing the changes and the problem(s) addressed.
+
+Please include problem references (HackerRank problem URL or name) in the file header.
+
+## Author
+
+Maintained by @adityasri2501 — https://github.com/adityasri2501
 
 ## License
 
-This project is open source and available for anyone to use and learn from.
-
-## Resources
-
-- [HackerRank](https://www.hackerrank.com/) - The platform where these problems come from
-- [Python Documentation](https://docs.python.org/) - Official Python documentation
+This repository currently does not include a LICENSE file. If you want to add a license, consider adding a `LICENSE` file such as MIT, Apache-2.0, or another OSI-approved license.
 
 ---
 
-Happy coding! 🎯
+If you want the README to include additional sections (badges, problem index, CI status, or per-category README files), tell me what to include and I will update it.
